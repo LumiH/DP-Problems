@@ -1,2 +1,2 @@
-# DP-Problems
-Dynamic Problems with solutions
+# Robots - DP
+A solution to a simple dynamic problem
